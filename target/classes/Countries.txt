@@ -1,0 +1,191 @@
+Afghanistan-South Asia
+Albania-Balkans
+Algeria-Northern Africa
+Andorra-Western Europe
+Angola-Sub-Saharan Africa
+Antigua and Barbuda-Caribbean
+Argentina-South America
+Armenia-Caucasus
+Australia-Oceania
+Austria-Western Europe
+Azerbaijan-Caucasus
+Bahamas-Caribbean
+Bahrain-Middle East
+Bangladesh-South Asia
+Barbados-Caribbean
+Belarus-Eastern Europe
+Belgium-Western Europe
+Belize-Central America
+Benin-Sub-Saharan Africa
+Bhutan-South Asia
+Bolivia-South America
+Bosnia and Herzegovina-Balkans
+Botswana-Sub-Saharan Africa
+Brazil-South America
+Brunei-Southeast Asia
+Bulgaria-Balkans
+Burkina Faso-Sub-Saharan Africa
+Burundi-Sub-Saharan Africa
+Cabo Verde-Sub-Saharan Africa
+Cambodia-Southeast Asia
+Cameroon-Sub-Saharan Africa
+Canada-North America
+Central African Republic-Sub-Saharan Africa
+Chad-Sub-Saharan Africa
+Chile-South America
+China-East Asia
+Colombia-South America
+Comoros-Sub-Saharan Africa
+Congo-Sub-Saharan Africa
+Costa Rica-Central America
+Croatia-Balkans
+Cuba-Caribbean
+Cyprus-Middle East
+Czech Republic-Central Europe
+Denmark-Nordics
+Djibouti-Sub-Saharan Africa
+Dominica-Caribbean
+Dominican Republic-Caribbean
+Ecuador-South America
+Egypt-Northern Africa
+El Salvador-Central America
+Equatorial Guinea-Sub-Saharan Africa
+Eritrea-Sub-Saharan Africa
+Estonia-Baltics
+Eswatini-Sub-Saharan Africa
+Ethiopia-Sub-Saharan Africa
+Fiji-Oceania
+Finland-Nordics
+France-Western Europe
+Gabon-Sub-Saharan Africa
+Gambia-Sub-Saharan Africa
+Georgia-Caucasus
+Germany-Western Europe
+Ghana-Sub-Saharan Africa
+Greece-Balkans
+Grenada-Caribbean
+Guatemala-Central America
+Guinea-Sub-Saharan Africa
+Guinea-Bissau-Sub-Saharan Africa
+Guyana-South America
+Haiti-Caribbean
+Honduras-Central America
+Hungary-Central Europe
+Iceland-Nordics
+India-South Asia
+Indonesia-Southeast Asia
+Iran-Middle East
+Iraq-Middle East
+Ireland-Western Europe
+Israel-Middle East
+Italy-Southern Europe
+Jamaica-Caribbean
+Japan-East Asia
+Jordan-Middle East
+Kazakhstan-Central Asia
+Kenya-Sub-Saharan Africa
+Kiribati-Oceania
+Kuwait-Middle East
+Kyrgyzstan-Central Asia
+Laos-Southeast Asia
+Latvia-Baltics
+Lebanon-Middle East
+Lesotho-Sub-Saharan Africa
+Liberia-Sub-Saharan Africa
+Libya-Northern Africa
+Liechtenstein-Western Europe
+Lithuania-Baltics
+Luxembourg-Western Europe
+Madagascar-Sub-Saharan Africa
+Malawi-Sub-Saharan Africa
+Malaysia-Southeast Asia
+Maldives-South Asia
+Mali-Sub-Saharan Africa
+Malta-Southern Europe
+Marshall Islands-Oceania
+Mauritania-Sub-Saharan Africa
+Mauritius-Sub-Saharan Africa
+Mexico-North America
+Micronesia-Oceania
+Moldova-Eastern Europe
+Monaco-Western Europe
+Mongolia-North Asia
+Montenegro-Balkans
+Morocco-Northern Africa
+Mozambique-Sub-Saharan Africa
+Namibia-Sub-Saharan Africa
+Nauru-Oceania
+Nepal-South Asia
+Netherlands-Western Europe
+New Zealand-Oceania
+Nicaragua-Central America
+Niger-Sub-Saharan Africa
+Nigeria-Sub-Saharan Africa
+North Korea-East Asia
+North Macedonia-Balkans
+Norway-Nordics
+Oman-Middle East
+Pakistan-South Asia
+Palau-Oceania
+Panama-Central America
+Papua New Guinea-Oceania
+Paraguay-South America
+Peru-South America
+Philippines-Southeast Asia
+Poland-Central Europe
+Portugal-Southern Europe
+Qatar-Middle East
+Romania-Balkans
+Russia-North Asia
+Rwanda-Sub-Saharan Africa
+Saint Kitts and Nevis-Caribbean
+Saint Lucia-Caribbean
+Saint Vincent and the Grenadines-Caribbean
+Samoa-Oceania
+San Marino-Southern Europe
+Sao Tome and Principe-Sub-Saharan Africa
+Saudi Arabia-Middle East
+Senegal-Sub-Saharan Africa
+Serbia-Balkans
+Seychelles-Sub-Saharan Africa
+Sierra Leone-Sub-Saharan Africa
+Singapore-Southeast Asia
+Slovakia-Central Europe
+Slovenia-Central Europe
+Solomon Islands-Oceania
+Somalia-Sub-Saharan Africa
+South Africa-Sub-Saharan Africa
+South Korea-East Asia
+South Sudan-Sub-Saharan Africa
+Spain-Southern Europe
+Sri Lanka-South Asia
+Sudan-Sub-Saharan Africa
+Suriname-South America
+Sweden-Nordics
+Switzerland-Western Europe
+Syria-Middle East
+Tajikistan-Central Asia
+Tanzania-Sub-Saharan Africa
+Thailand-Southeast Asia
+Timor Leste-Southeast Asia
+Togo-Sub-Saharan Africa
+Tonga-Oceania
+Trinidad and Tobago-Caribbean
+Tunisia-Northern Africa
+Turkey-Middle East
+Turkmenistan-Central Asia
+Tuvalu-Oceania
+Uganda-Sub-Saharan Africa
+Ukraine-Eastern Europe
+United Arab Emirates-Middle East
+United Kingdom-Western Europe
+United States-North America
+Uruguay-South America
+Uzbekistan-Central Asia
+Vanuatu-Oceania
+Vatican City-Southern Europe
+Venezuela-South America
+Vietnam-Southeast Asia
+Yemen-Middle East
+Zambia-Sub-Saharan Africa
+Zimbabwe-Sub-Saharan Africa

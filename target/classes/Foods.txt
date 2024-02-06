@@ -1,0 +1,90 @@
+Pizza-Italian
+Sushi-Japanese
+Tacos-Mexican
+Croissant-French
+Pad Thai-Thai
+Hamburger-American
+Paella-Spanish
+Dim Sum-Chinese
+Gyro-Greek
+Ravioli-Italian
+Kimchi-Korean
+Caesar Salad-American
+Ramen-Japanese
+Empanadas-Spanish
+Cannoli-Italian
+Falafel-Middle Eastern
+Peking Duck-Chinese
+Churros-Spanish
+Tom Yum Soup-Thai
+Tiramisu-Italian
+Bagel with Lox-Jewish
+Tamales-Mexican
+Risotto-Italian
+Chicken Tikka Masala-Indian
+Croque Monsieur-French
+Kimchi-Korean
+Clam Chowder-American
+Moussaka-Greek
+Ceviche-Peruvian
+Bratwurst-German
+Chimichanga-Mexican
+Jollof Rice-West African
+Pecan Pie-American
+Piroshki-Russian
+Gumbo-Cajun
+Pupusa-Salvadoran
+Dolma-Turkish
+Croquembouche-French
+Bibimbap-Korean
+Kebab-Middle Eastern
+Mole Poblano-Mexican
+Katsu Curry-Japanese
+Satay-Indonesian
+Tostones-Puerto Rican
+Lobster Roll-American
+Fajitas-Mexican
+Ratatouille-French
+Chicken Adobo-Filipino
+Schnitzel-Austrian
+Cabbage Rolls-Eastern European
+Sauerbraten-German
+Guacamole-Mexican
+Tzatziki-Greek
+Aloo Gobi-Indian
+Baguette with Camembert-French
+Colcannon-Irish
+Bulgogi-Korean
+Rösti-Swiss
+Chicken Parmesan-Italian
+Khachapuri-Georgian
+Miso Soup-Japanese
+Chicken Shawarma-Middle Eastern
+Cacio e Pepe-Italian
+Bánh Mì-Vietnamese
+Hainanese Chicken Rice-Singaporean
+Manti-Turkish
+Vindaloo-Indian
+Moqueca-Brazilian
+Corned Beef and Cabbage-Irish
+Biryani-Indian
+Feijoada-Brazilian
+Peri-Peri Chicken-Portuguese
+Chili Con Carne-Mexican
+Arancini-Italian
+Tiramisu-Italian
+Crostini-Italian
+Peking Duck Pancakes-Chinese
+Key Lime Pie-American
+Chicken Satay-Thai
+Saganaki-Greek
+Chicken Noodle Soup-American
+Kibbeh-Middle Eastern
+Shrimp and Grits-American
+Baklava-Greek
+Shabu-Shabu-Japanese
+Clafoutis-French
+Nasi Lemak-Malaysian
+Beef Stroganoff-Russian
+Matzo Ball Soup-Jewish
+Bibingka-Filipino
