@@ -11,23 +11,31 @@ public class Hangman {
     "src/main/java/Movies.txt",
     "src/main/java/USASports.txt"
   };
+  
+  private String[] topics = {
+    "UN Countries", 
+    "Foods", 
+    "Movies", 
+    "USA Sports Teams"
+  };
+  
   private ArrayList<String> words; // parsed text file
   private ArrayList<String> hints; // hints for words
   private Random rand; // random number generator
   private String path;
   private FileReader reader;
   private Scanner scan;
-  
+  private int lives;
   private String word;
   private String hint;
-  private int lives;
-  private String guessedLetters;
+  private String topic;
+  private char[] display;
 
-  public Hangman() throws FileNotFoundException {
+  public Hangman(int topicInd) throws FileNotFoundException {
     words = new ArrayList<String>(); // parsed text file
     hints = new ArrayList<String>(); // hints for words
     rand = new Random(); // random number generator
-    path = paths[rand.nextInt(paths.length)];
+    path = paths[topicInd];
     reader = new FileReader(path);
     scan = new Scanner(reader);
     while(scan.hasNext()) {
@@ -35,31 +43,48 @@ public class Hangman {
       words.add(temp.split("-")[0]);
       hints.add(temp.split("-")[1]);
     }
-    
-    int index = rand.nextInt(words.size());
-    this.word = words.remove(index);
-    this.hint = hints.remove(index);
-    this.lives = 6;
-    this.guessedLetters = "";
+    topics = options[topicInd];
+    reset();
   }
 
   public String getWord() {
     return word;
   }
 
-  public String getHint() {
+  public String getHint(int penalty) {
+    lives -= penalty;
     return hint;
   }
-  
-  public int getLives() {
-    return lives;
+
+  /**
+  * Returns the hangman model, the topic, the current words
+  */
+  public String toString() {
+    String str = "";
+    str += "Topic: " + topics;
+    str += "\nLives: " + lives;
+    
+    return str;
   }
 
-  
-
-  //finish
   public void reset() {
-    
+    int index = rand.nextInt(words.size());
+    this.word = words.remove(index);
+    this.hint = hints.remove(index);
+    for(int i = 0; i < word.length(); i++)) {
+      display[i] = (Character.isSpaceChar(word.charAt(i))) ? '-' : '/';
+    }
+    lives = 7;
+  }
+
+  public boolean guess(String letter) {
+    if(word.contains(letter)) {
+      for(int i = 0; i < word.length(); i++) {
+        if(word.charAt(i) == letter.charAt(0))
+          display[i] = letter.charAt(0);
+      }
+      return true;
+    }
   }
 
   public boolean hasMoreWords() {
