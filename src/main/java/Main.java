@@ -29,7 +29,7 @@ public class Main {
   * Method - one game of hangman 
   * @param topic - the topic of the game
   **/
-  public static boolean startGame(String[] topic) {
+  public static boolean startGame(int topic) {
 
     JOptionPane.showInputDialog(game.toString());
     

@@ -29,6 +29,7 @@ public class Hangman {
   private String word;
   private String hint;
   private String topic;
+  private String usedLetters;
   private char[] display;
 
   public Hangman(int topicInd) throws FileNotFoundException {
@@ -43,8 +44,15 @@ public class Hangman {
       words.add(temp.split("-")[0]);
       hints.add(temp.split("-")[1]);
     }
-    topics = options[topicInd];
-    reset();
+    topic = topics[topicInd];
+    //reset();
+    int index = rand.nextInt(words.size());
+    this.word = words.remove(index);
+    this.hint = hints.remove(index);
+    for(int i = 0; i < word.length(); i++)) {
+      display[i] = (Character.isSpaceChar(word.charAt(i))) ? '-' : '/';
+    }
+    lives = 7;
   }
 
   public String getWord() {
@@ -78,6 +86,10 @@ public class Hangman {
   }
 
   public boolean guess(String letter) {
+    if(letter.length() != 1 || !Character.isLetter(letter.charAt(0)))
+      throw new IllegalArgumentException("Invalid guess");
+    else if(usedLetters.contains(letter))
+      throw new IllegalArgumentException("Letter already guessed");
     if(word.contains(letter)) {
       for(int i = 0; i < word.length(); i++) {
         if(word.charAt(i) == letter.charAt(0))
@@ -85,6 +97,7 @@ public class Hangman {
       }
       return true;
     }
+    return false;
   }
 
   public boolean hasMoreWords() {
